@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sanketbhandare
 - 👀 I’m interested in DevOps, Artificial Intelligence, Scripting and Automation. 
-- 🌱 I’m currently learning AI & Machine learning..
-- 💞️ I’m looking to collaborate on DevOps + MLOps.
+- 💞️ I’m looking to collaborate on DevOps + MLOps Projects.
 - 📫 How to reach me sanket01bhandare@gmail.com
 
 <!---
